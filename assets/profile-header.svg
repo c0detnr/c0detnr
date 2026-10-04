@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Emir Tanır · AI Engineer</title>
+  <desc id="description">An Omarchy-inspired desktop and terminal window in the Tokyo Night palette. Emir Tanır, AI Engineer. Full-stack roots. AI focus.</desc>
+
+  <!-- Static, self-contained artwork. All fonts resolve locally. -->
+  <rect width="900" height="390" rx="16" fill="#1a1b26"/>
+
+  <!-- Desktop bar and workspace indicators. -->
+  <g font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Courier New', monospace" font-size="15">
+    <rect x="24" y="17" width="30" height="25" rx="5" fill="#7aa2f7"/>
+    <text x="39" y="35" text-anchor="middle" fill="#1a1b26" font-weight="700">1</text>
+    <text x="75" y="35" text-anchor="middle" fill="#c0caf5">2</text>
+    <text x="111" y="35" text-anchor="middle" fill="#c0caf5">3</text>
+    <text x="148" y="35" text-anchor="middle" fill="#c0caf5">4</text>
+    <text x="876" y="35" text-anchor="end" fill="#bb9af7">c0detnr / profile</text>
+  </g>
+
+  <!-- A thin tiled-window frame, with a quiet terminal title bar. -->
+  <rect x="24.5" y="56.5" width="851" height="309" rx="9" stroke="#7aa2f7"/>
+  <path d="M25 97.5H875" stroke="#414868"/>
+  <circle cx="47" cy="77" r="4" fill="#7aa2f7"/>
+  <circle cx="63" cy="77" r="4" fill="#bb9af7"/>
+  <circle cx="79" cy="77" r="4" fill="#414868"/>
+
+  <g font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Courier New', monospace">
+    <text x="450" y="82" text-anchor="middle" font-size="15" fill="#c0caf5">~/c0detnr</text>
+
+    <text x="60" y="139" font-size="20" xml:space="preserve"><tspan fill="#bb9af7">~</tspan><tspan fill="#7aa2f7"> $ </tspan><tspan fill="#c0caf5">whoami</tspan></text>
+
+    <text x="57" y="213" font-size="64" font-weight="700" letter-spacing="-2" fill="#c0caf5">Emir Tanır</text>
+    <text x="60" y="270" font-size="42" font-weight="700" fill="#7aa2f7">AI Engineer</text>
+
+    <path d="M60 295H112" stroke="#bb9af7" stroke-width="3"/>
+    <text x="60" y="336" font-size="24" fill="#c0caf5">Full-stack roots. AI focus.</text>
+    <rect x="809" y="318" width="13" height="22" rx="1" fill="#bb9af7"/>
+  </g>
+</svg>
